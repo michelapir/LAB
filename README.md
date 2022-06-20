@@ -147,4 +147,4 @@ As we can see in the graph, the COVID situation led to decrease in the number of
 
 ## LAB4
 
-Creazione presentazione jupyter slides
+Jupyter slides creation
